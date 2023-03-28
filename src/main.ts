@@ -7,4 +7,4 @@ app.get("/rondoudou", (req, res) => {
   res.send('<html><body></body><img src="/test_static/rondoudou.gif"></body></html>');
 });
 
-app.listen(3000, () => console.log("Serveur démarré"));
+app.listen(3000, () => console.log("Ser démarré"));
